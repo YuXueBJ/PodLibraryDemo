@@ -9,10 +9,10 @@ pod lib create podLibraryDemo
 
 ```
 
-![](/assets/QQ20170109-0.png)
+![](./READMESource/QQ20170109-0.png)
 
 #创建后的目录结构
-![](/assets/屏幕快照 2017-01-09 下午6.33.05.png)
+![](./READMESource/屏幕快照 2017-01-09 下午6.33.05.png)
 
 项目生成的目录结构及相关介绍。
 
