@@ -23,6 +23,9 @@ podLibraryDemo pod管理文件夹
 Assets 资源文件目录
 Classes 代码类文件目录
 接下来就是向Pod文件夹中添加库文件和资源，并配置podspec文件，我把一个网络模块的共有组件放入Pod/Classes中，然后进入Example文件夹执行`pod update`命令，再打开项目工程可以看到，刚刚添加的组件已经在Pods子工程下Example/Pods中了，然后编辑demo工程，测试组件，我并没有使用提供的测试框架进行测试，这里就先不介绍了。
+
+![](./READMESource/podLibraryDemo.png)
+
 #编辑.podspec配置文件
 
 
